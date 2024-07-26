@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://waymnaus.github.io/sitemap.html.gz
+Sitemap: https://waymnaus.github.io/app/sitemap.html.gz
+Sitemap: https://waymnaus.github.io/assets/sitemap.html.gz
+Sitemap: https://waymnaus.github.io/css/sitemap.html.gz
+Sitemap: https://waymnaus.github.io/includes/sitemap.html.gz
+Sitemap: https://waymnaus.github.io/item/sitemap.html.gz
+Sitemap: https://waymnaus.github.io/src/sitemap.html.gz
